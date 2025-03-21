@@ -1,0 +1,2 @@
+# Statistical-Analysis-Data-Visualization-Projects
+ This repository is focused on applying statistical techniques for data analysis and visualization. It covers methods such as hypothesis testing, correlation analysis, probability distributions, and exploratory data analysis (EDA).The goal is to demonstrate expertise in extracting insights, identifying trends, and making data-driven decisions through precise statistical analysis and impactful visualizations.
