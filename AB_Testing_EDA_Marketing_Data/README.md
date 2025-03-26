@@ -4,11 +4,10 @@ The dataset contains 10K records related to an online subscription business's ma
 
 ## 📌Key Objectives:
 
-1️⃣ **Data Cleaning and Preprocessing**: Handle missing values, correct data types, and prepare the dataset for analysis.
+1️⃣ **Data Cleaning and Preprocessing**: Handle missing values, correct data types, Added new columns and prepare the dataset for analysis.
 
 2️⃣ **Marketing Channel Performance Analysis**: Evaluate the effectiveness of different marketing channels in driving conversions and subscriptions.
 
-3️⃣ **A/B Testing Analysis (Variant Analysis)**: Assess the impact of campaign variants (personalization vs. control) on conversion rates.
+3️⃣ **A/B Testing Analysis (Variant Analysis)**: Assess the impact of campaign variants (personalization vs. control) on conversion rates(T-test and Lift)
 
-4️⃣ **Python Expertise**: Pandas,Numpy for merging/slicing datasets, groupby(), correcting data types and visualizing results using matplotlib
-
+4️⃣ **Python Expertise**: Pandas,Numpy, Matplotlib, Scipy
